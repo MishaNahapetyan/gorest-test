@@ -1,11 +1,11 @@
 ## Installation
 
 ```bash
-git clone https://artminasyan@bitbucket.org/MishaNahapetyan/gorest.git
+git clone https://github.com/MishaNahapetyan/gorest-test.git
 ```
 
 ```bash
-cd gorest
+cd gorest-test
 ```
 
 Copy .env file:
